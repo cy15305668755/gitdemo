@@ -6,7 +6,7 @@ package cn.bigbig;
 public class GitDemoMain {
 
     public static void main(String[] args) {
-        System.out.println("This my first Git Demo...");
+        System.out.println("This my first Git Demo...1");
     }
 
 }
